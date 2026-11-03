@@ -1123,6 +1123,18 @@ footer.foot .wrap{display:block}
 .dc-logo.dc-s{height:58px;aspect-ratio:2221/903}
 .dc-logo.dc-g{height:76px;aspect-ratio:2555/1360}
 .door-card:hover .dc-logo{transform:translateY(-3px) scale(1.04)}
+/* quote logos: keep each logo's own shape */
+.q-logo{width:auto;min-width:56px;height:56px;padding:0 12px;flex:0 0 auto}
+.q-logo img{height:auto!important;width:auto!important;max-height:34px!important;max-width:112px!important;object-fit:contain;display:block}
+.q-logo svg{height:34px!important;width:auto!important}
+/* game clips */
+.clips-sec{background:var(--bg)}
+.reel{border-radius:28px;overflow:hidden;background:#0B1424;aspect-ratio:16/9;position:relative;box-shadow:0 50px 90px -50px rgba(10,40,100,.6);margin-bottom:20px}
+.reel video{width:100%;height:100%;object-fit:cover;display:block}
+.clip-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:20px}
+.clip-grid .mg-shot{aspect-ratio:16/9}
+@media (max-width:900px){.clip-grid{grid-template-columns:1fr 1fr}}
+@media (max-width:560px){.clip-grid{grid-template-columns:1fr}}
 
 .contact.mini{padding:clamp(64px,8vw,100px) 0}
 .dd .dd-mark{height:24px;aspect-ratio:960/595}.dd .dd-word{height:8.5px;aspect-ratio:2221/139}.dd{gap:12px}.hero-logo .dd-full{height:clamp(84px,10vw,124px);aspect-ratio:2221/903}.dd-foot .dd-full{height:54px;aspect-ratio:2221/903}@media (max-width:420px){.nav .dd .dd-mark{height:21px}.nav .dd .dd-word{height:7.5px}}
