@@ -1,0 +1,55 @@
+# Done Different Systems
+
+> Done Different Systems designs and builds websites, online stores, point of sale (POS), ERP, HR and attendance systems, and wedding invitation websites, for businesses and couples worldwide. Sites are built in English and Arabic (right to left done properly), with Polish available. Every project gets a fixed price, agreed before any work starts.
+
+Work is done remotely for clients anywhere; most live client sites so far are businesses in Jordan. Prices are in US dollars, and the site can also show them in EUR, PLN, JOD and AED.
+
+## Services
+
+- [Websites](https://systems.donedifferent.net/websites/): Phone-first business websites in Arabic and English, with an admin panel you run yourself, Google-ready SEO, WhatsApp and email enquiries, and hosting set up for you. From $1,190.
+- [Online stores](https://systems.donedifferent.net/online-stores/): Online stores in Arabic and English with an admin panel for products, prices, offers and orders, order emails, WhatsApp orders and Google-ready product pages. From $1,990.
+- [Point of sale](https://systems.donedifferent.net/point-of-sale/): A desktop point of sale that works offline: barcode scanning, discounts, printed receipts, stock with profit margins, cash counts, Z-reports and sales reports. Connects to your online store.
+- [ERP and HR](https://systems.donedifferent.net/erp-hr/): A store manager for installment sales, cash drawer counts and scheduled backups, plus an HR and attendance app with location check-ins, a rotating QR code, shifts, leave and payroll.
+- [Wedding invitations](https://systems.donedifferent.net/wedding-invitation/): A wedding invitation website with as many pages as you like, any song, your own colours, a countdown, the venue on a map and RSVPs to your WhatsApp. One fixed price: $150.
+
+## Prices
+
+- Wedding invitation website: $150 fixed. Everything included: as many pages as you like, any song, any theme colours, RSVP, a private guest-list admin page, Arabic and English.
+- One-page website: from $490. Everything about a business on one fast page.
+- Business website: from $1,190. Phone-first site in Arabic and English, admin panel, enquiries by email and WhatsApp, Google-ready SEO, hosting and domain set up.
+- Online store: from $1,990. Products, orders and offers run by the owner from an admin panel, order emails and WhatsApp orders.
+- Point of sale or ERP (on its own): from $2,450. Desktop point of sale or store manager for the counter or back office.
+- Website + POS or ERP: from $3,990. Website or full online store plus a point of sale or store manager, with stock shared between the counter and the website. About $450 less than buying both separately.
+- Complete business suite: from $8,900. Everything above plus an iPhone and Android app, HR and attendance, Meta ads and Pixel, and custom features.
+- Care plan Essentials: $29/month. Hosting, domain and SSL kept running, backups and security updates, small fixes.
+- Care plan Plus: $79/month. Everything in Essentials, up to 2 hours of changes a month, a short monthly report.
+- Care plan Store and POS: $199/month. Everything in Plus, point of sale support and updates, same-day fixes for urgent problems.
+- How it works: a free first call, a fixed quote with the timeline, build and review, then launch and handover with a walkthrough.
+
+## Live client work
+
+- [Aladdin Video Games](https://aladdinvideogames.com): Gaming and electronics retailer in Amman, 30+ years old. Online store with a PC builder, admin panel, desktop ERP with installment sales, and a point of sale.
+- [Deeb International](https://deebinternational.com): Freight forwarder shipping from China to 15+ countries. Company website with quote requests and shipment tracking.
+- [Cibo Gourmet](https://cibogourmet.co): Italian and European food distributor in Amman. Bilingual catalogue of 139 products from 17 brands with quote requests.
+- [Karanfil](https://karanfil-jo.com): Cake and cupcake shop. Cake builder with flavours, fillings and flower colours, delivery rules, Meta catalog ads with Pixel.
+- [Ferragosto Gelateria](https://ferragosto.ferragosto.workers.dev): Gelateria in Amman. Playful animated menu site with flavours and prices managed from an admin panel.
+- [Flick Mobile](https://flick-mobile.zozmc333.workers.dev): Phone retailer with four branches in Amman. Online store with brands, offers and branch maps, managed from an admin panel.
+- [Advanced Pest Control](https://advanced-pest-control.zeddev.workers.dev/en): Pest control company, 25 years in business. Arabic-first bilingual site with four-step booking through WhatsApp.
+
+## Contact
+
+- [Packages and enquiry form](https://systems.donedifferent.net/#start): pick a package, describe the project, get a reply with a fixed quote.
+- [WhatsApp](https://wa.me/48507304248): +48 507 304 248
+- Email: info@donedifferent.net
+
+## Optional
+
+- [Full details for AI assistants](https://systems.donedifferent.net/llms-full.txt): every service, feature list and FAQ in one file.
+- [Arabic site](https://systems.donedifferent.net/ar/): the same site in Arabic.
+- [Polish site](https://systems.donedifferent.net/pl/): the same site in Polish.
+- [تصميم مواقع](https://systems.donedifferent.net/ar/website-design/): Arabic page for Websites.
+- [متجر إلكتروني](https://systems.donedifferent.net/ar/online-store/): Arabic page for Online stores.
+- [نظام نقاط بيع](https://systems.donedifferent.net/ar/pos/): Arabic page for Point of sale.
+- [إدارة وموارد بشرية](https://systems.donedifferent.net/ar/erp-hr/): Arabic page for ERP and HR.
+- [دعوات زفاف](https://systems.donedifferent.net/ar/wedding-invitation/): Arabic page for Wedding invitations.
+- [Privacy](https://systems.donedifferent.net/privacy/)

@@ -1,0 +1,218 @@
+# Done Different Systems
+
+> Done Different Systems designs and builds websites, online stores, point of sale (POS), ERP, HR and attendance systems, and wedding invitation websites, for businesses and couples worldwide. Sites are built in English and Arabic (right to left done properly), with Polish available. Every project gets a fixed price, agreed before any work starts.
+
+Work is done remotely for clients anywhere; most live client sites so far are businesses in Jordan. Prices are in US dollars, and the site can also show them in EUR, PLN, JOD and AED.
+
+## Services
+
+- [Websites](https://systems.donedifferent.net/websites/): Phone-first business websites in Arabic and English, with an admin panel you run yourself, Google-ready SEO, WhatsApp and email enquiries, and hosting set up for you. From $1,190.
+- [Online stores](https://systems.donedifferent.net/online-stores/): Online stores in Arabic and English with an admin panel for products, prices, offers and orders, order emails, WhatsApp orders and Google-ready product pages. From $1,990.
+- [Point of sale](https://systems.donedifferent.net/point-of-sale/): A desktop point of sale that works offline: barcode scanning, discounts, printed receipts, stock with profit margins, cash counts, Z-reports and sales reports. Connects to your online store.
+- [ERP and HR](https://systems.donedifferent.net/erp-hr/): A store manager for installment sales, cash drawer counts and scheduled backups, plus an HR and attendance app with location check-ins, a rotating QR code, shifts, leave and payroll.
+- [Wedding invitations](https://systems.donedifferent.net/wedding-invitation/): A wedding invitation website with as many pages as you like, any song, your own colours, a countdown, the venue on a map and RSVPs to your WhatsApp. One fixed price: $150.
+
+## Prices
+
+- Wedding invitation website: $150 fixed. Everything included: as many pages as you like, any song, any theme colours, RSVP, a private guest-list admin page, Arabic and English.
+- One-page website: from $490. Everything about a business on one fast page.
+- Business website: from $1,190. Phone-first site in Arabic and English, admin panel, enquiries by email and WhatsApp, Google-ready SEO, hosting and domain set up.
+- Online store: from $1,990. Products, orders and offers run by the owner from an admin panel, order emails and WhatsApp orders.
+- Point of sale or ERP (on its own): from $2,450. Desktop point of sale or store manager for the counter or back office.
+- Website + POS or ERP: from $3,990. Website or full online store plus a point of sale or store manager, with stock shared between the counter and the website. About $450 less than buying both separately.
+- Complete business suite: from $8,900. Everything above plus an iPhone and Android app, HR and attendance, Meta ads and Pixel, and custom features.
+- Care plan Essentials: $29/month. Hosting, domain and SSL kept running, backups and security updates, small fixes.
+- Care plan Plus: $79/month. Everything in Essentials, up to 2 hours of changes a month, a short monthly report.
+- Care plan Store and POS: $199/month. Everything in Plus, point of sale support and updates, same-day fixes for urgent problems.
+- How it works: a free first call, a fixed quote with the timeline, build and review, then launch and handover with a walkthrough.
+
+## Live client work
+
+- [Aladdin Video Games](https://aladdinvideogames.com): Gaming and electronics retailer in Amman, 30+ years old. Online store with a PC builder, admin panel, desktop ERP with installment sales, and a point of sale.
+- [Deeb International](https://deebinternational.com): Freight forwarder shipping from China to 15+ countries. Company website with quote requests and shipment tracking.
+- [Cibo Gourmet](https://cibogourmet.co): Italian and European food distributor in Amman. Bilingual catalogue of 139 products from 17 brands with quote requests.
+- [Karanfil](https://karanfil-jo.com): Cake and cupcake shop. Cake builder with flavours, fillings and flower colours, delivery rules, Meta catalog ads with Pixel.
+- [Ferragosto Gelateria](https://ferragosto.ferragosto.workers.dev): Gelateria in Amman. Playful animated menu site with flavours and prices managed from an admin panel.
+- [Flick Mobile](https://flick-mobile.zozmc333.workers.dev): Phone retailer with four branches in Amman. Online store with brands, offers and branch maps, managed from an admin panel.
+- [Advanced Pest Control](https://advanced-pest-control.zeddev.workers.dev/en): Pest control company, 25 years in business. Arabic-first bilingual site with four-step booking through WhatsApp.
+
+## Contact
+
+- [Packages and enquiry form](https://systems.donedifferent.net/#start): pick a package, describe the project, get a reply with a fixed quote.
+- [WhatsApp](https://wa.me/48507304248): +48 507 304 248
+- Email: info@donedifferent.net
+
+---
+
+# Service details
+
+## Websites
+
+Page: https://systems.donedifferent.net/websites/
+Price: from $1,190
+
+A fast, phone-first website in Arabic and English that you can update yourself, built to show up on Google and turn visitors into enquiries.
+
+### Everything a business site needs.
+
+Not a template with your logo on it. A site designed around your business, and handed over so you never need a developer for small changes.
+
+- A phone-first design in Arabic and English, right to left done properly
+- An admin panel to change text, photos, menus and offers yourself
+- Enquiries straight to your email and WhatsApp
+- Google-ready SEO: titles, descriptions, sitemap and link previews
+- Your domain and hosting set up for you, with HTTPS
+
+### Questions
+
+**How much does a website cost?**
+Business websites start from $1,190, and a one-page site from $490. You get a fixed quote after a short call, so the price is agreed before any work starts.
+
+**How long does it take?**
+Most business websites are ready in two to four weeks, depending on how many pages you need and how quickly content comes together.
+
+**Can I edit the website myself?**
+Yes. Every site comes with a private admin panel for your text, photos, menus and offers, in Arabic and English.
+
+**Will it show up on Google?**
+Every site is built for search: proper titles and descriptions, a sitemap, fast pages and link previews. Ranking also depends on your content and competition, so I’ll tell you honestly what to expect.
+
+## Online stores
+
+Page: https://systems.donedifferent.net/online-stores/
+Price: from $1,990
+
+Products, prices, offers and orders, all managed from your own admin panel, in Arabic and English. Add a point of sale and the counter and the website share the same stock.
+
+### A store that sells while you sleep.
+
+Customers browse, filter and order from their phone. You see every order the moment it lands, and change anything without calling a developer.
+
+- Product pages, categories, search and filters in Arabic and English
+- An admin panel for products, prices, offers, menus and orders
+- Order emails to you and the customer, and orders through WhatsApp
+- Product data Google understands, with price and stock
+- Backups with a preview of every change before you restore
+
+### Questions
+
+**How much does an online store cost?**
+Online stores start from $1,990. With a point of sale or store manager connected to the same stock, the bundle starts from $3,990. Every project gets a fixed quote first.
+
+**Can the store share stock with my shop?**
+Yes. The store, the point of sale and the back office can share one database, so a sale at the counter updates the website straight away.
+
+**Can customers order on WhatsApp?**
+Yes. Orders can arrive by email, by WhatsApp, or both.
+
+**Can I add products myself?**
+Yes, from your admin panel, including bulk import from Excel.
+
+## Point of sale
+
+Page: https://systems.donedifferent.net/point-of-sale/
+Price: from $2,450
+
+Ring up a sale in seconds, close the day with a count that adds up, and see what’s actually selling. It keeps working when the internet doesn’t.
+
+### Everything at the counter.
+
+A Windows app built for real shops: fast at the till, careful with the cash, and honest in the reports.
+
+- Scan a barcode to add it, apply discounts and tax, print the receipt
+- Inventory with profit margins and bulk import from Excel
+- Edit or void past sales, with stock put back automatically
+- Sales by day, best sellers and busiest hours for 7, 30 or 90 days
+- Opening float, cash in and out, end-of-day count and Z-reports
+- Works fully offline, and a crash can’t corrupt a sale
+
+### Questions
+
+**How much does a point of sale cost?**
+A point of sale starts from $2,450 on its own. With a website or online store sharing the same stock, the bundle starts from $3,990.
+
+**Does it work without internet?**
+Yes. It runs on the shop computer and works fully offline.
+
+**Can I import my products from Excel?**
+Yes. Bulk import and export with Excel are built in.
+
+**Does it connect to my website?**
+It can. The point of sale and your online store can share one database, so stock and prices stay in sync.
+
+## ERP and HR
+
+Page: https://systems.donedifferent.net/erp-hr/
+Price: from $2,450
+
+Know who owes what and when it’s due, count every drawer, and run staff attendance that can’t be faked, in Arabic and English.
+
+### Installments and cash, under control.
+
+The back office for a shop that sells on installments: who owes what, when it’s due, and what’s in the drawer.
+
+- Installment sales with payment schedules and reminders
+- A cash drawer counter for every shift
+- Scheduled backups, so nothing is ever lost
+- A printed user manual and a one-click installer
+
+### Questions
+
+**How much does the store manager cost?**
+The store manager starts from $2,450 on its own, or from $3,990 together with a website. HR and attendance is part of the complete business suite, or quoted on its own.
+
+**How does the attendance app stop fake check-ins?**
+Workers can only check in from inside the shop, confirmed by location, from the one phone tied to their account, by scanning a QR code that changes every few seconds.
+
+**Does it support more than one branch?**
+Yes. Shifts, attendance and payroll work across multiple branches.
+
+**Is my data backed up?**
+Yes. Backups run on a schedule, so nothing is lost.
+
+## Wedding invitations
+
+Page: https://systems.donedifferent.net/wedding-invitation/
+Price: $150, fixed price, everything included
+
+One link for every guest, with your story, the date, the venue on a map and an RSVP button, in your colours and with your song. Plus a private page to see who’s coming. One fixed price of $150.
+
+### Everything on one link.
+
+Send it on WhatsApp, Instagram or by email. Guests tap once and see everything they need, on any phone, with nothing to install.
+
+- As many pages as you like: your story, the day’s schedule and RSVP
+- Any song you love, playing as guests open it
+- Any theme colours, matched to your wedding
+- A private admin page showing who’s coming and who isn’t
+- The venue with a Google Maps button and a live countdown
+- Arabic and English, with a personal link for each guest
+
+### Questions
+
+**How much does a wedding invitation website cost?**
+One fixed price of $150, with everything included: as many pages as you need, any song, any colours, RSVP and your own guest list admin page. A custom domain like yournames.com is optional, at the domain’s own yearly cost.
+
+**What is a digital wedding invitation?**
+A small website made just for your wedding. You send one link on WhatsApp, Instagram or by email, and every guest sees your names, the date, the venue on a map and a button to say whether they’re coming. It replaces printed cards, and it never gets lost.
+
+**How fast can it be ready?**
+Usually about a week after you send your details and photos. Invitations usually go out 6 to 8 weeks before the day, so it’s worth starting early. Tell me your date and I’ll make sure it’s ready in time.
+
+**How do we see who’s coming?**
+You get a private admin page with your guest list: who’s coming, who isn’t, who hasn’t replied yet, and how many people each guest is bringing. Replies can also reach your WhatsApp as they come in.
+
+**Do guests need to download anything?**
+No. It’s a normal link that opens in any phone’s browser.
+
+**Can it be for an engagement or another event?**
+Yes. The same works for engagements, Katb Kitab, birthdays and other celebrations.
+
+## How every project works
+
+1. A short call: Tell me about your business and what you need.
+2. A fixed quote: You get the price and the timeline before anything starts.
+3. Build and review: You see it as it comes together, and ask for changes.
+4. Launch and handover: It goes live, and you get the keys and a walkthrough.
+
+Starting price. Every project gets a fixed quote after a short call, so you know the cost before any work starts.
